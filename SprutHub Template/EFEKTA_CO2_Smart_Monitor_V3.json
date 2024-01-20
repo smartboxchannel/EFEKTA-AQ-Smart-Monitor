@@ -47,8 +47,7 @@
       "link": {
         "endpoint": 1,
         "cluster": "000C_AnalogInputBasic",
-        "attribute": "0055_PresentValue",
-        "attribute": "0065_VOCIndex"
+        "attribute": "0055_PresentValue"
       },
       "bind": true,
       "report": {
@@ -93,7 +92,7 @@
             {
               "endpoint": 1,
               "cluster": "000C_AnalogInputBasic",
-              "attribute": "0065_VOCIndex"
+              "attribute": "0055_PresentValue"
             }
           ]
         }
