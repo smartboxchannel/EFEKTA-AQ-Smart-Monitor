@@ -6,6 +6,7 @@ const reporting = require('zigbee-herdsman-converters/lib/reporting');
 const e = exposes.presets;
 const ea = exposes.access;
 
+
 const tzLocal = {
 	co2_config: {
         key: ['auto_brightness', 'forced_recalibration', 'factory_reset_co2', 'long_chart_period', 'set_altitude',
