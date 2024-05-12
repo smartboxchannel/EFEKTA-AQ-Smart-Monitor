@@ -40,7 +40,7 @@
       "report": {
         "min": 30,
         "max": 3600,
-        "change": 1
+        "change": 0.000001
 	  }
     },
     {
