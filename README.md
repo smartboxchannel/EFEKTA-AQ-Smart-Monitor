@@ -1,5 +1,7 @@
-# EFEKTA-CO2-Smart-Monitor-V3
+# EFEKTA AQ Smart Monitor
 
 Телеграм чат DIY Devices - https://t.me/diy_devices
 
 Продажа DIY Устройств - https://t.me/diydevmart
+
+Описание: http://efektalab.com/Efekta_AQ_Smart_Monitor
