@@ -263,7 +263,7 @@
 	  "unit": "сек.",
       "type": "Integer",
       "init": false,
-      "value": 30,
+      "value": 15,
       "minValue": 30,
       "maxValue": 600
     },
