@@ -249,8 +249,8 @@ const definition = {
         exposes: [e.co2(), 
 		    exposes.numeric('voc_index', ea.STATE).withUnit('voc index points').withDescription('VOC INDEX'),
 			e.temperature(), e.humidity(),
-		    exposes.numeric('reading_delay', ea.STATE_SET).withUnit('Seconds').withDescription('Setting the sensor reading delay. Setting the time in seconds, by default 30 seconds')
-                .withValueMin(30).withValueMax(600),
+		    exposes.numeric('reading_delay', ea.STATE_SET).withUnit('Seconds').withDescription('Setting the sensor reading delay. Setting the time in seconds, by default 15 seconds')
+                .withValueMin(15).withValueMax(600),
             exposes.binary('light_indicator', ea.STATE_SET, 'ON', 'OFF').withDescription('Enable or Disable light_indicator'),
 			exposes.numeric('light_ind_level', ea.STATE_SET).withUnit('%').withDescription('light_indicator_level')
                 .withValueMin(0).withValueMax(100),
