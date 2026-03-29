@@ -1,4 +1,4 @@
-# https://telegra.ph/Datchik-kachestva-vozduha-EFEKTA-Smart-Air-Quality-Box--Zigbee-30-08-23
+# http://efektalab.com/Efekta_AQ_Smart_Monitor
 from enum import Enum
 from typing import Final
 
